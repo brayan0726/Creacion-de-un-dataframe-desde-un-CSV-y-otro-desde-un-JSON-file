@@ -1,0 +1,25 @@
+{
+    "Calificaciones": [
+        {
+            "periodo": 1,
+            "nombre": "luis",
+            "clase": "matematicas",
+            "seccion": 7,
+            "notas": 87
+        },
+        {
+            "periodo": 2,
+            "nombre": "ariana",
+            "clase": "dibujo",
+            "seccion": 1,
+            "notas": 67
+        },
+        {
+            "periodo": 1,
+            "nombre": "nicol",
+            "clase": "programacion",
+            "seccion": 3,
+            "notas": 78
+        }
+    ]
+}
